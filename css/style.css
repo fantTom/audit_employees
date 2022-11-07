@@ -1,0 +1,22 @@
+body {
+    background-color: #E5EEF5;
+}
+
+main {
+    width: 100%;
+}
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+}
+
+h1 {
+    line-height: 26px;
+    font-size: 26px;
+    margin-bottom: 45px;
+}
+
+h2 {
+    text-align: center;
+    padding: 20px 0;
+}
